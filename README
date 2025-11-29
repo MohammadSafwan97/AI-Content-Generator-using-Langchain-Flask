@@ -1,0 +1,19 @@
+# AI Content Generator (Flask + LangChain + OpenAI)
+
+A simple AI-powered text generator built with:
+
+- Flask backend  
+- LangChain for prompt management  
+- OpenAI models  
+- TailwindCSS frontend  
+- Axios for API requests  
+
+## 🚀 Features
+- Clean, modular architecture  
+- Modern UI  
+- Simple API endpoint  
+- Easy to extend with more templates  
+
+## 🛠️ Setup
+
+### Install dependencies
